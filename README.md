@@ -10,5 +10,5 @@ python3 clientFeuille.py
 PLEASE NOTE : Port under 1000 require sudo 
 ```
 
-# Autor
+# Author
 [Jaaber]
